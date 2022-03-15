@@ -1,4 +1,9 @@
+<<<<<<< Updated upstream
 REMOTE
+=======
+LOCAL
+
+>>>>>>> Stashed changes
 
 play me !
 
